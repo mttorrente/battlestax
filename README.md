@@ -1,6 +1,6 @@
 # 🚀 JamStack + 🧑‍🚀 React + 🧑‍💻 Workshop
 
-[![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[[![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Discord](https://img.shields.io/discord/685554030159593522)](https://discord.com/widget?id=685554030159593522&theme=dark)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e265340f-c6a6-4d7b-b24c-438b87c67876/deploy-status)](https://app.netlify.com/sites/battlestax-tutorial/deploys)
 
@@ -104,3 +104,4 @@ Brace yourselves, everybody goes to [https://battlestax-workshop.netlify.app/](h
 [![BattleStax JAMStack Workshop](./tutorial/are-you-ready.gif)](./README_JAM.md)
 
 **🏠 [Table of Contents](./README.md#%EF%B8%8F-table-of-contents)** | ***next=>** 📚 [What is the JAMStack](./README_JAM.md)*
+](url)
